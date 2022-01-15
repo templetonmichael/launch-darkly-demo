@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRANF8Iyu29K75TZkdvoEmZ1tC5wW1aHMPeh6CbyHR0YY3NVOXOmruTtJ7vPHPdG4AtiW9m8Sf02khj0z8Htcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\templ\\source\\repos\\LaunchDarklyDemo\\LaunchDarklyDemo\\LaunchDarklyDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\templ\\.nuget\\packages\\launchdarkly.clientsdk\\2.0.0\\launchdarkly.clientsdk.2.0.0.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\launchdarkly.commonsdk\\5.4.1\\launchdarkly.commonsdk.5.4.1.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\launchdarkly.eventsource\\4.1.3\\launchdarkly.eventsource.4.1.3.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\launchdarkly.internalsdk\\2.3.0\\launchdarkly.internalsdk.2.3.0.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\launchdarkly.jsonstream\\1.0.3\\launchdarkly.jsonstream.1.0.3.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\launchdarkly.logging\\1.0.1\\launchdarkly.logging.1.0.1.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\templ\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
