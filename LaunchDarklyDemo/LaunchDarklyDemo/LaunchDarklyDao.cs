@@ -10,7 +10,7 @@ namespace LaunchDarklyDemo
 
         public static async Task InitiateClient()
         {
-            client = await LdClient.InitAsync("mob-0c2f306c-1842-474f-bbc2-930b5da6617c", user);
+            client = await LdClient.InitAsync("YOUR MOBILE SDK KEY HERE", user);
         }
         
         public static bool? GetTestBool()
